@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "We Didn't Start the Fire",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-22T06:13:46.752381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Didn’t Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/01_We_Didn’t_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We didn't start the fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/02_We_didn't_start_the_fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/03_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/04_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/05_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/06_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/07_We_Didn't_Start_The_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/08_We_Didn't_Start_The_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Didn't Start The Fire",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_We_Didn't_Start_The_Fire_VA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/10_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Didn't Start The Fire",
+      "artist": "Pop",
+      "has_synced": true,
+      "path": "select/11_We_Didn't_Start_The_Fire_Pop.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Didn’t Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/12_We_Didn’t_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/13_We_Didn't_Start_the_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/14_We_Didn't_Start_The_Fire_Billy_Joel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Didn't Start the Fire",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_We_Didn't_Start_the_Fire_Billy_Joel.txt"
+    }
+  ]
+}
